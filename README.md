@@ -8,7 +8,7 @@ This code is to create a proveably random smart contract lottery!
 
 ## What we want it to do?
 
-1. Users can etnter by paying for a ticket
+1. Users can enter by paying for a ticket
    a.The ticket fees are going to go to the winner during the draw
 
 2. After period X time, the lottery will automatically draw a winner
